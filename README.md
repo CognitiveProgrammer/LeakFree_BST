@@ -1,4 +1,4 @@
-# LeakFree BST(Binary Search Tree0 in C++
+# LeakFree BST(Binary Search Tree in C++
 # A Leak Free, High Performance C++ Binary Search Tree (BST) using STL containers like Vector / Deque
 
 ### Caution -  This implementation takes more memory as compared to normal pointer / list based implementations
