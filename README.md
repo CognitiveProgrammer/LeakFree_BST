@@ -1,6 +1,8 @@
 # LeakFree BST(Binary Search Tree0 in C++
 # A Leak Free, High Performance C++ Binary Search Tree (BST) using STL containers like Vector / Deque
 
+### Caution -  This implementation takes more memory as compared to normal pointer / list based implementations
+
 Any Binary Search Tree (BST) creation in C/C++ requires lots of memory allocations an de-allocations. This is often done by using pointers which leads to complex pointer management, errors and more specifically the memory leaks
 
 In case we need to create a small Binary Search Tree(BST), we can create a BST using `std::vector` or `std::deque`.  These BST can be deleted at once without bothering about deleting individual elements.
